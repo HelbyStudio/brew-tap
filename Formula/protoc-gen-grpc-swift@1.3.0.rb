@@ -1,4 +1,4 @@
-class ProtocGenGrpcSwift < Formula
+class ProtocGenGrpcSwiftAT130 < Formula
   desc "Protoc plugin for generating gRPC Swift stubs"
   homepage "https://github.com/grpc/grpc-swift-protobuf"
   url "https://github.com/grpc/grpc-swift-protobuf/archive/refs/tags/1.3.0.tar.gz"
